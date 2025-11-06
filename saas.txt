@@ -1,0 +1,1 @@
+Contributed to key automation initiatives aimed at improving efficiency and accuracy. In NexGen, developed an automated solution to identify 5W’s from source data, reducing manual effort and processing time. Additionally, supported the Underwriting POC by automating user query result generation, which streamlined workflow and improved productivity.
